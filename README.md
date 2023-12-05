@@ -29,3 +29,9 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+##
+
+"Realizei exatamente o que foi solicitado no desafio; no entanto, fiz alguns ajustes. No caso do nível ‘Ferro’, defini que deveria ser menor ou igual a 1000. Se fosse apenas menor que 1000, qualquer valor exatamente igual a 1000 ficaria sem classificação, uma vez que o nível seguinte começa a partir de 1001.
+
+Outro ajuste foi no nível ‘Ouro’, que estabeleci entre 5001 e 7000. Fiz isso porque o nível anterior, ‘Prata’, vai até 5000, e inicialmente o nível ‘Ouro’ começaria em 6001, deixando um intervalo sem classificação."
